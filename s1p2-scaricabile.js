@@ -46,7 +46,7 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-// - Un oggetto è una raccolta di dati che ci permette di descrivere in modo dettagliato ciò che vogliamo descrivere, perchè posssiamo inserire la categoria di ricerca con il relativo valore.
+// - Un oggetto è una raccolta di dati che ci permette di definire in modo dettagliato ciò che vogliamo descrivere, perchè posssiamo inserire la categoria di ricerca con il relativo valore.
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
