@@ -13,6 +13,7 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 // I principali datatype sono:
+// - String (stringa): sono dati solitamente di tipo testo, ma al suo interno possiamo trovare anche dei numeri, che inseriti tra le doppie virgolette/apici o backtick, vengono gestiti dal codice solo come testo ai quali non è possibile fare delle operazioni matematiche. Di fatti se facessimo la somma tra due stringe avverrebbe solo l'unione scritta detta concatenazione. 
                     const animal = "Cane"
                     console.log(animal)
 // - Number (numero): sono dati di tipo numerico e a differenza del tipo stringa non vanno inseriti all'inetrno delle virgolette.
